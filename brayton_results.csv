@@ -1,0 +1,37 @@
+Parameter,Value
+T1 (K),288.15
+T2 (K),684.0458116198603
+T3 (K),1400
+T4 (K),721.2252475061687
+P1 (Pa),101325
+P2 (Pa),1519875
+P3 (Pa),1519875
+P4 (Pa),101325
+Compressor Work,397875.2906779596
+Turbine Work,682168.6262563005
+Net Work,284293.33557834086
+Heat Input,719533.9593220404
+Efficiency,0.39510759971107945
+s1,0
+s2,91.26916008647709
+s3,811.0527973785008
+s4,922.0576720708083
+SFC,5.8859444795529314e-08
+Specific power,284293.33557834086
+Power,2842933.3557834085
+Fuel Flow,0.16733347891210243
+Cycle Status,VALID - Net power output
+Fuel-Air Ratio,0.016733347891210244
+Simulation Time,2026-10-01 17:15:22
+Simulation ID,424c4b82
+Version,1.0
+Model,Ideal Brayton Cycle with component efficiencies
+Assumptions,Ideal gas; Constant specific heat; Negligible pressure losses; Steady-state operation; Specified compressor and turbine efficiencies
+Gas Constant (J/kg.K),287.14285714285705
+Gas Constant Status,VALID - Gas properties are consistent
+Fuel Heating Value (J/kg),43000000
+Performance Rating,Moderate
+Temperature Status,VALID - Turbine temperature drops
+Pressure Status,VALID - Pressure conditions are consistent
+Temperature Consistency,VALID - Temperature changes are consistent
+Overall Status,PASS -All checks completed successfully
